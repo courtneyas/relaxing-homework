@@ -1,7 +1,10 @@
-<style>
+<style>		* {box-sizing: border-box;
+			}
+			
 			header {
 				width:100%;
 			}
+
 
 			.logo {
 			    color: #fff;
@@ -56,6 +59,16 @@
 			    font-size: 40px;
 			    font-weight: 600;
 			    margin-bottom: 40px;
+			}
+
+			h3 {
+			    display: block;
+			    font-size: 1.17em;
+			    -webkit-margin-before: 1em;
+			    -webkit-margin-after: 1em;
+			    -webkit-margin-start: 0px;
+			    -webkit-margin-end: 0px;
+			    font-weight: bold;
 			}
 
 			.blue {
