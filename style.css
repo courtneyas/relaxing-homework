@@ -45,6 +45,10 @@
 			#benefits p, #benefits ul {
 			    width: 600px;
 			}
+
+			div{
+				display: block;
+			}
 }
 
 			.container {
