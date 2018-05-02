@@ -1,4 +1,4 @@
-<style>		* {box-sizing: border-box;
+	* {box-sizing: border-box;
 			}
 			
 			header {
@@ -36,16 +36,54 @@
 			#hero {
 			    height: auto;
 			    padding: 30px 0 50px;
+			    background: url(./images/header_bg.jpg) no-repeat center top rgb(134,141,157);
+      			background-size: cover;
 			}
-			#benefits p, #benefits ul {
+
+
+			#benefits .container {
 			    width: 82%;
 			    margin: 0 auto 20px;
 			    display: block;
 			    background-color: white;
 			}
 
-			#benefits p, #benefits ul {
+			#benefits ul{
+				padding: 20px ;
+				padding-left: 40px
+
+			}
+
+			#benefits p, ul {
 			    width: 600px;
+			    font-size: 13px;
+			    font-family: Arial Black, Arial, Sans-serif;
+			    font-weight: light;
+			    list-style: inherit;
+			    padding-left: 20px;  
+			}
+
+
+
+			#testimonial {
+				background:url(./images/testimonial_bg.jpg);
+
+			}
+
+			#testimonial blockquote {
+				color: white;
+				font-size: 18px;
+				font-weight: 100;
+    			font-style: italic;
+    			text-align: center;
+    			padding: 60px;
+			    padding-right: 180px;
+			    padding-left: 180px;
+			}
+
+			#testimonial span {
+				font-weight:600;
+				font-style: bold;
 			}
 
 			div{
@@ -68,6 +106,8 @@
 			    color: #033048;
 			}
 
+
+
 			h3 {
 				font-size: 30px;
 				color: #033048;
@@ -84,6 +124,12 @@
 			    -webkit-margin-start: 0px;
 			    -webkit-margin-end: 0px;
 			    font-weight: bold;
+			}
+
+			#bottom {
+				background:#f9e42e;
+				padding-top: 20px;
+    			padding-bottom: 20px;
 			}
 
 			.blue {
@@ -104,7 +150,7 @@
 			}
 
 			.title__footer {
-				color:yellow;
+				color:#f9e42e;
 				font-family: Arial Black, Arial, Sans-serif;
 				/*text-align: center; */
 				margin-top: 30px; 
@@ -119,4 +165,9 @@
 			.footer-icon-wrapper {
 				display: inline-block;
 			}
-		</style>
+		
+
+
+
+
+
