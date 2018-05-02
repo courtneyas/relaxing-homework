@@ -113,6 +113,16 @@
 			    margin: 0 auto;
 			}
 
+			a {
+			    text-decoration: none;
+			}
+
+			#bottom {
+				background: #f9e42e;
+			    padding: 30px;
+			    text-align: center;
+			}
+
 			.title__footer {
 				color:yellow;
 				font-family: Arial Black, Arial, Sans-serif;
