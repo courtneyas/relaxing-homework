@@ -40,6 +40,7 @@
 			#benefits p, #benefits ul {
 			    width: 82%;
 			    margin: 0 auto 20px;
+			    display: block;
 			}
 
 			#benefits p, #benefits ul {
