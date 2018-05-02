@@ -48,6 +48,16 @@
 
 			#testimonial {
 			    background: url(../images/testimonial_bg.jpg) no-repeat top center #071324;
+			    background-image: url(../images/testimonial_bg.jpg);
+			    background-position-x: center;
+			    background-position-y: top;
+			    background-size: initial;
+			    background-repeat-x: no-repeat;
+			    background-repeat-y: no-repeat;
+			    background-attachment: initial;
+			    background-origin: initial;
+			    background-clip: initial;
+			    background-color: rgb(7, 19, 36);
 			    padding: 70px 0 70px;
 			    color: #fff;
 			}
