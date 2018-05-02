@@ -39,7 +39,9 @@
 			    background: url(./images/header_bg.jpg) no-repeat center top rgb(134,141,157);
       			background-size: cover;
 			}
-
+			#benefits {
+				background:white;
+			}
 
 			#benefits .container {
 			    width: 82%;
