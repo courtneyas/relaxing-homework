@@ -48,8 +48,8 @@
 
 			#testimonial {
 				display:block;
-			    background: url(../images/testimonial_bg.jpg) no-repeat top center #071324;
-			    background-image: url(../images/testimonial_bg.jpg);
+			    background: url(testimonial_bg.jpg) no-repeat top center #071324;
+			    background-image: url(testimonial_bg.jpg);
 			    background-position-x: center;
 			    background-position-y: top;
 			    background-size: initial;
